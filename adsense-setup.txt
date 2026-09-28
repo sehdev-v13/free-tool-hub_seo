@@ -1,0 +1,6 @@
+AdSense setup
+
+1. Get your real publisher ID from Google AdSense (format ca-pub-...).
+2. Replace any placeholder AdSense metadata/code only after approval.
+3. Add ads.txt with your real publisher ID when AdSense provides the exact line.
+4. Do not invent a publisher ID.

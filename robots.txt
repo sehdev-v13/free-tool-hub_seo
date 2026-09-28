@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sehdevverma.github.io/free-tool-hub/sitemap.xml
